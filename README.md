@@ -16,9 +16,9 @@
 
 Welcome to my **Security Writeups** repository.
 
-A collection of my cybersecurity learning journey, hands-on labs, CTF challenges, bug bounty research, and security findings.
+A collection of my cybersecurity learning journey, hands-on labs, CTF challenges, bug bounty research, security investigations, and technical findings.
 
-This repository serves as a personal knowledge base for documenting methodologies, tools, technical findings, and practical security experiences.
+This repository serves as a personal knowledge base for documenting methodologies, tools, technical findings, and practical security experiences across different cybersecurity domains.
 
 ## Connect With Me
 
@@ -39,23 +39,24 @@ This repository serves as a personal knowledge base for documenting methodologie
 
 ## Areas of Focus
 
-| Category | Description |
-|---|---|
-| TryHackMe | Hands-on rooms and lab writeups |
-| Hack The Box | Machine and challenge writeups |
-| CTF | Capture The Flag challenges |
-| Bug Bounty | Vulnerability research |
-| Web Security | Web application security |
-| Security Research | Technical analysis and experiments |
-| Penetration Testing | Authorized security assessments |
+| Category | Description | Visit |
+|---|---|---|
+| TryHackMe | Hands-on cybersecurity rooms and practical labs | [Visit TryHackMe Section](https://github.com/aroravansh-cyber/security-writeups/tree/main/TryHackMe) |
+| HackTheBox | Machine and challenge-based security learning | [Visit HackTheBox Section](https://github.com/aroravansh-cyber/security-writeups/tree/main/HackTheBox) |
+| CTF | Capture The Flag challenges and writeups | [Visit CTF Section](https://github.com/aroravansh-cyber/security-writeups/tree/main/CTF) |
+| Red-Team | Offensive security and authorized assessments | [Visit Red-Team Section](https://github.com/aroravansh-cyber/security-writeups/tree/main/Red-Team) |
+| Blue-Team | SOC operations, SIEM and threat detection | [Visit Blue-Team Section](https://github.com/aroravansh-cyber/security-writeups/tree/main/Blue-Team) |
+| Purple-Team | Red-Blue collaboration and detection validation | [Visit Purple-Team Section](https://github.com/aroravansh-cyber/security-writeups/tree/main/Purple-Team) |
+| Bug-Bounty | Vulnerability research and responsible disclosure | [Visit Bug-Bounty Section](https://github.com/aroravansh-cyber/security-writeups/tree/main/Bug-Bounty) |
+| My-Labs | Practical experiments and security projects | [Visit My-Labs Section](https://github.com/aroravansh-cyber/security-writeups/tree/main/Labs) |
 
 ## Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,docker" alt="Technologies"/>
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,docker,vscode" alt="Technologies"/>
 </p>
 
-**Additional Tools:** Nmap, Burp Suite, Wireshark, Gobuster, Metasploit.
+**Additional Tools:** Nmap, Burp Suite, Wireshark, Gobuster, Metasploit, Splunk, Wazuh, Ghidra, CyberChef.
 
 ## Repository Structure
 
@@ -63,26 +64,13 @@ This repository serves as a personal knowledge base for documenting methodologie
 security-writeups/
 │
 ├── TryHackMe/
-│   └── Room-Name/
-│       ├── README.md
-│       └── screenshots/
-│
 ├── HackTheBox/
-│   └── Machine-Name/
-│       ├── README.md
-│       └── screenshots/
-│
 ├── CTF/
-│   └── Platform-Name/
-│       └── Challenge-Name/
-│
+├── Red-Team/
+├── Blue-Team/
+├── Purple-Team/
 ├── Bug-Bounty/
-│   ├── Web-Vulnerabilities/
-│   └── Research/
-│
-├── Labs/
-│   ├── PortSwigger/
-│   └── OWASP/
+├── My-Labs/
 │
 └── README.md
 ```
@@ -98,6 +86,7 @@ Each writeup may include:
 - Methodology and analysis
 - Findings and observations
 - Screenshots and evidence
+- Remediation recommendations (where applicable)
 - Key learnings
 - References and resources
 
