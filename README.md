@@ -48,7 +48,7 @@ This repository serves as a personal knowledge base for documenting methodologie
 | Blue-Team | SOC operations, SIEM and threat detection | [Visit Blue-Team Section](https://github.com/aroravansh-cyber/security-writeups/tree/main/Blue-Team) |
 | Purple-Team | Red-Blue collaboration and detection validation | [Visit Purple-Team Section](https://github.com/aroravansh-cyber/security-writeups/tree/main/Purple-Team) |
 | Bug-Bounty | Vulnerability research and responsible disclosure | [Visit Bug-Bounty Section](https://github.com/aroravansh-cyber/security-writeups/tree/main/Bug-Bounty) |
-| My-Labs | Practical experiments and security projects | [Visit My-Labs Section](https://github.com/aroravansh-cyber/security-writeups/tree/main/Labs) |
+| My-Labs | Practical experiments and security projects | [Visit My-Labs Section](https://github.com/aroravansh-cyber/security-writeups/tree/main/My-Labs) |
 
 ## Tools & Technologies
 
