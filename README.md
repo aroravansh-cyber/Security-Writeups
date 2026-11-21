@@ -99,13 +99,6 @@ This repository is intended for educational purposes and authorized security res
 - No private credentials, personal information, or confidential data should be published.
 - Third-party lab content and challenge materials remain subject to their respective sharing policies.
 
-## License
-
-Original documentation and content are shared under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license, unless otherwise stated.
-
-See [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) for details.
-
----
 
 <p align="center">
   <strong>Stay Curious. Keep Learning. Think Secure.</strong>
